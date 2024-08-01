@@ -2,7 +2,8 @@ age 1.2.0
 coreutils 9.5
 direnv 2.34.0
 fswatch 1.17.1
-git 2.45.2
+gcc 14.1.0
+git 2.46.0
 grep 3.11
 jq 1.7.1
 ncdu 2.5
